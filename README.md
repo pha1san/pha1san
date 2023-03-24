@@ -18,7 +18,7 @@ I'm Phaisan, a Frontend Developer with 2 years of experience in web development.
 
 ### 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanius&show_icons=true&theme=dracula)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=pha1san&show_icons=true&theme=dracula)
 
 
 <!--
