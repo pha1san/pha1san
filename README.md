@@ -15,11 +15,11 @@ I'm Phaisan, a Frontend Developer with 2 years of experience in web development.
 ```
 - Figma
 ```
-
+<!--
 ### 📈 GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=pha1san&show_icons=true&theme=dracula)
-
+-->
 
 <!--
 **phanius/phanius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
